@@ -2,14 +2,7 @@
 	"commands":
 	{
 		"agents": "SELECT * FROM agents;",
-		"company": "SELECT * FROM company;",
 		"customer": "SELECT * FROM customer",
-		"daysorder": "SELECT * FROM daysorder;",
-		"despatch": "SELECT * FROM despatch;",
-		"foods": "SELECT * FROM foods;",
-		"listofitem": "SELECT * FROM listofitem;",
-		"orders": "SELECT * FROM orders;",
-		"student": "SELECT * FROM student;",
-		"studentreport": "SELECT * FROM studentreport;"
+		"orders": "SELECT * FROM orders;"
 	}
 }
